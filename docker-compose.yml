@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  phonenumberaggregator:
+    image: ${DOCKER_REGISTRY-}phonenumberaggregator
+    build:
+      context: .
+      dockerfile: PhoneNumberAggregator/Dockerfile
+    ports:
+    - "8081:443"
+    - "8080:80"
+    
