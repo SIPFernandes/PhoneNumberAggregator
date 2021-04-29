@@ -1,8 +1,5 @@
 # pnia v1.1
 
-This exercise is part of Talkdesk's recruitment process. Please do not share it
-publicly.
-
 It is up to you how much effort you put into it and exactly what you deliver. We
 would expect you to spend two to three hours on it, and the result to be a piece
 of working code that will comply exactly with the interface described below and
